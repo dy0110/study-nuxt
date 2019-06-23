@@ -1,6 +1,6 @@
 # study-nuxt-app
 
-> My best Nuxt.js project
+> My stellar Nuxt.js project
 
 ## Build Setup
 
